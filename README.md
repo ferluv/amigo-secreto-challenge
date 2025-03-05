@@ -1,13 +1,13 @@
 ![logo amigo secreto](https://github.com/user-attachments/assets/a3852d66-9b5f-4c06-9d6e-324dfe68f69d)
 <h1> Desafío ALLURA: "Amigo Secreto"</h1>
 
-<h2>Descripción del proyecto:</h2> Dentro de este desafío se desarrollo una página web interactiva que permite a los usuarios  agregar los nombres de los participantes y sortear automáticamente quién será el "amigo secreto" de cada persona.
-
 |Estado del proyecto: Finalizado|
+
+<h2>Descripción del proyecto:</h2> Dentro de este desafío se desarrollo una página web interactiva que permite a los usuarios  agregar los nombres de los participantes y sortear automáticamente quién será el "amigo secreto" de cada persona.
 
 <h3> Descripción de las funcionalidades:</h3> 
 
--Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+-Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
 -Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
