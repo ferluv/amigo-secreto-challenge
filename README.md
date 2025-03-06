@@ -6,8 +6,6 @@
 <h2>Descripción del proyecto:</h2> Dentro de este desafío se desarrollo una página web interactiva que permite a los usuarios  agregar los nombres de los participantes y sortear automáticamente quién será el "amigo secreto" de cada persona.
 
 <h3> Descripción de las funcionalidades:</h3> 
-![compressed_20250306](https://github.com/user-attachments/assets/a6a16ce7-2e32-4ab6-9996-376216d6d553)
-
 
 -Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Añadir".
 
